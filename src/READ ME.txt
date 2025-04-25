@@ -1,0 +1,7 @@
+This code can be use to reproduce all the results figures from the manuscript.
+
+1) Characterization Analysis.m is a Matlab Script that will output Figure 2 and Figure 3. Matlab has a web-based access option, however a  license and account are required.
+	- Make sure your "CurrentFolder" in Matlab are set to where the 'data' folder is located.
+	- Data for this analysis can be found under '...data' folder of this repository. Code may be modified such that the first section only loads the previously compiled table with all the data (Dataset=readtable('Dataset.csv');).
+2) DDM RT fit.ipynb file is a Python based code that outputs Figure 4 of the manuscript. No license is needed to access. 
+	- Data for this analysis can be found under '...data' folder as 'Dataset.csv'.
