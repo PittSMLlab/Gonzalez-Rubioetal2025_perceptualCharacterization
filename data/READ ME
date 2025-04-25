@@ -1,0 +1,10 @@
+All files within each individual participant folder are .csv format. 
+
+Folders:
+Data we used in the manuscript. The columns are:
+	* pertSize: which refers to the stimulus magnitude of each perceptual task. Unit: mm
+	* reactionTime: refers to the time from the task star cue to participants' choice. Unit: s
+	* initialResponse: this variable is -1 when the participant chose "left is slower" and 1 when the choice was "right is slower"
+
+Additional there is a file named Dataset.csv, which contains a table compiling all the participant information analyzed in the manuscript.  
+
